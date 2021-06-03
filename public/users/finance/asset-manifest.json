@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/users/finance/static/css/main.33a2f663.chunk.css",
+    "main.js": "/users/finance/static/js/main.43ad5c8c.chunk.js",
+    "main.js.map": "/users/finance/static/js/main.43ad5c8c.chunk.js.map",
+    "runtime-main.js": "/users/finance/static/js/runtime-main.4104978c.js",
+    "runtime-main.js.map": "/users/finance/static/js/runtime-main.4104978c.js.map",
+    "static/css/2.58b941df.chunk.css": "/users/finance/static/css/2.58b941df.chunk.css",
+    "static/js/2.cd91095c.chunk.js": "/users/finance/static/js/2.cd91095c.chunk.js",
+    "static/js/2.cd91095c.chunk.js.map": "/users/finance/static/js/2.cd91095c.chunk.js.map",
+    "index.html": "/users/finance/index.html",
+    "precache-manifest.53c4059e418db75da96903f77b96567b.js": "/users/finance/precache-manifest.53c4059e418db75da96903f77b96567b.js",
+    "service-worker.js": "/users/finance/service-worker.js",
+    "static/css/2.58b941df.chunk.css.map": "/users/finance/static/css/2.58b941df.chunk.css.map",
+    "static/css/main.33a2f663.chunk.css.map": "/users/finance/static/css/main.33a2f663.chunk.css.map",
+    "static/js/2.cd91095c.chunk.js.LICENSE.txt": "/users/finance/static/js/2.cd91095c.chunk.js.LICENSE.txt",
+    "static/media/Bot-Academy-logo-head-1920.png": "/users/finance/static/media/Bot-Academy-logo-head-1920.50a63da2.png",
+    "static/media/material-icons.css": "/users/finance/static/media/MaterialIcons-Regular.e79bfd88.eot",
+    "static/media/Slide10.JPG": "/users/finance/static/media/Slide10.2d1ccda2.JPG",
+    "static/media/Slide7.JPG": "/users/finance/static/media/Slide7.316d13df.JPG",
+    "static/media/Slide8.JPG": "/users/finance/static/media/Slide8.d269a96e.JPG",
+    "static/media/Slide9.JPG": "/users/finance/static/media/Slide9.92e10c74.JPG",
+    "static/media/bot_avatar.jpg": "/users/finance/static/media/bot_avatar.50a63da2.jpg",
+    "static/media/chatbot.css": "/users/finance/static/media/chat_bg_bot-dark.a7670892.jpg",
+    "static/media/david.jpg": "/users/finance/static/media/david.f5bb198c.jpg",
+    "static/media/hermes.jpg": "/users/finance/static/media/hermes.50a63da2.jpg",
+    "static/media/ivan.jpg": "/users/finance/static/media/ivan.76ca7124.jpg",
+    "static/media/mark.jpg": "/users/finance/static/media/mark.76ca7124.jpg",
+    "static/media/robin.jpg": "/users/finance/static/media/robin.78cacd50.jpg",
+    "static/media/simon.jpg": "/users/finance/static/media/simon.78cacd50.jpg",
+    "static/media/thomas.jpg": "/users/finance/static/media/thomas.f5bb198c.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4104978c.js",
+    "static/css/2.58b941df.chunk.css",
+    "static/js/2.cd91095c.chunk.js",
+    "static/css/main.33a2f663.chunk.css",
+    "static/js/main.43ad5c8c.chunk.js"
+  ]
+}

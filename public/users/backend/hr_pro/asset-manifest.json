@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/users/backend/hr_pro/static/css/main.019d2dcc.chunk.css",
+    "main.js": "/users/backend/hr_pro/static/js/main.03c8fbab.chunk.js",
+    "main.js.map": "/users/backend/hr_pro/static/js/main.03c8fbab.chunk.js.map",
+    "runtime-main.js": "/users/backend/hr_pro/static/js/runtime-main.bf2ecb71.js",
+    "runtime-main.js.map": "/users/backend/hr_pro/static/js/runtime-main.bf2ecb71.js.map",
+    "static/css/2.ba29236c.chunk.css": "/users/backend/hr_pro/static/css/2.ba29236c.chunk.css",
+    "static/js/2.e8c13d2c.chunk.js": "/users/backend/hr_pro/static/js/2.e8c13d2c.chunk.js",
+    "static/js/2.e8c13d2c.chunk.js.map": "/users/backend/hr_pro/static/js/2.e8c13d2c.chunk.js.map",
+    "index.html": "/users/backend/hr_pro/index.html",
+    "precache-manifest.97907b05db21048f96928ef9abae8245.js": "/users/backend/hr_pro/precache-manifest.97907b05db21048f96928ef9abae8245.js",
+    "service-worker.js": "/users/backend/hr_pro/service-worker.js",
+    "static/css/2.ba29236c.chunk.css.map": "/users/backend/hr_pro/static/css/2.ba29236c.chunk.css.map",
+    "static/css/main.019d2dcc.chunk.css.map": "/users/backend/hr_pro/static/css/main.019d2dcc.chunk.css.map",
+    "static/js/2.e8c13d2c.chunk.js.LICENSE.txt": "/users/backend/hr_pro/static/js/2.e8c13d2c.chunk.js.LICENSE.txt",
+    "static/media/Bot-Academy-logo-head-1920.png": "/users/backend/hr_pro/static/media/Bot-Academy-logo-head-1920.50a63da2.png",
+    "static/media/material-icons.css": "/users/backend/hr_pro/static/media/MaterialIcons-Regular.e79bfd88.eot",
+    "static/media/Slide10.JPG": "/users/backend/hr_pro/static/media/Slide10.2d1ccda2.JPG",
+    "static/media/Slide7.JPG": "/users/backend/hr_pro/static/media/Slide7.316d13df.JPG",
+    "static/media/Slide8.JPG": "/users/backend/hr_pro/static/media/Slide8.d269a96e.JPG",
+    "static/media/Slide9.JPG": "/users/backend/hr_pro/static/media/Slide9.92e10c74.JPG",
+    "static/media/bot_avatar.jpg": "/users/backend/hr_pro/static/media/bot_avatar.50a63da2.jpg",
+    "static/media/chatbot.css": "/users/backend/hr_pro/static/media/chat_bg_bot-dark.a7670892.jpg",
+    "static/media/david.jpg": "/users/backend/hr_pro/static/media/david.f5bb198c.jpg",
+    "static/media/hermes.jpg": "/users/backend/hr_pro/static/media/hermes.50a63da2.jpg",
+    "static/media/ivan.jpg": "/users/backend/hr_pro/static/media/ivan.76ca7124.jpg",
+    "static/media/mark.jpg": "/users/backend/hr_pro/static/media/mark.76ca7124.jpg",
+    "static/media/robin.jpg": "/users/backend/hr_pro/static/media/robin.78cacd50.jpg",
+    "static/media/simon.jpg": "/users/backend/hr_pro/static/media/simon.78cacd50.jpg",
+    "static/media/thomas.jpg": "/users/backend/hr_pro/static/media/thomas.f5bb198c.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bf2ecb71.js",
+    "static/css/2.ba29236c.chunk.css",
+    "static/js/2.e8c13d2c.chunk.js",
+    "static/css/main.019d2dcc.chunk.css",
+    "static/js/main.03c8fbab.chunk.js"
+  ]
+}

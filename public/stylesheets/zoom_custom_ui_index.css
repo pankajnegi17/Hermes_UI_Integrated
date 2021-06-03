@@ -1,0 +1,126 @@
+.select2-dropdown.select2-dropdown--below {
+    z-index: 9999;
+  }
+
+  #chatbot-root .col.s2.avatar-style {
+    max-width: 55px;
+  }
+
+  #chatbot .col {
+    flex-basis: unset !important;
+    flex-grow: unset !important;
+    ;
+  }
+
+  a.navbar-brand {
+    margin-top: 0px;
+    top: 1px;
+    padding-top: 0;
+    position: absolute;
+    font-weight: bold;
+    left: 10px;
+  }
+
+ .card.active{
+    display: block;
+  }
+
+  .card.inactive{
+    display: none;
+  }
+
+  body{
+
+  background: #323231eb!important;
+  height: 100vh;
+  }
+
+  #chatbot-root > div > div.effect8.z-depth-5.chatbot-Wrapper.active > div.input-wrapper.top-only-shadow > div.add-button-wrapper.blinkingX{
+    margin-top: 0 !important;
+  }
+
+
+  #chatbot-root > div > div.effect8.z-depth-5.chatbot-Wrapper.active > div.input-wrapper.top-only-shadow > div.chatbotInputBox > input{
+    margin-top: 0 !important;
+    height: 100% !important;
+  }
+
+  #chatbot-root > div > div.effect8.z-depth-5.chatbot-Wrapper.active > div.input-wrapper.top-only-shadow > div.send-button-wrapper{
+    margin-top: 0 !important;
+  }
+
+  body > span > span{
+    z-index: 99999 !important;
+  }
+
+  #newMeetingDialog{
+    z-index: 99999!important;
+  }
+
+
+  .hyper-modal-wrapper.visible{
+
+    position: absolute;
+  }
+
+
+  #chatbot-root .chatbot-Wrapper{
+    width:100%;
+    height:100%;
+  }
+
+
+
+  #modalContainer #chatbot-modal .hyper-modal-wrapper .hyper-modal-content-wrapper .hyper-close-icon-wrapper{
+    display:none;
+  }
+
+#chat-grid .col.s10.padding-zero {
+margin-left:0 !important
+}
+  #modalContainer #chatbot-modal .hyper-modal-wrapper .hyper-modal-content-wrapper {
+  background-image: linear-gradient(to bottom right, #6a6f74, #0e121e);
+  height: 100%;
+  max-height: 100%!important;
+  width: 100%!important;
+}
+
+
+
+#modalContainer iframe.modal-wrapper {
+  height: 100%;
+  width: 100%;
+}
+
+#modalContainer .download-button-wrapper{
+margin:0 !important;
+}
+
+
+
+body nav.navbar{
+    height:65px;
+  }
+
+  body main.container-fluid{
+    height: calc(100vh - 70px);
+  }
+
+  body main.container-fluid .grid-stack-item{
+    height: calc(100% - 10px) !important;
+  }
+
+  .grid-stack.grid-wrapper{
+    height: 100%  !important;
+  }
+
+#zoomContainer{
+height: 100%;}
+
+  #zoomContainer .card-body{
+    height: calc(100% - 50px) !important;
+  }
+
+
+
+  

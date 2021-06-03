@@ -1,0 +1,77 @@
+body#root{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100vh;
+}
+
+
+#chatbot-root{
+    position: fixed !important;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100vh;
+}
+
+	.msg-outer .col {
+    -ms-flex-preferred-size: unset !important;
+    flex-basis: unset !important;
+    -ms-flex-positive: unset !important;
+    flex-grow: unset !important;
+}
+
+.highcharts-container {
+	width:100% !important;
+	height:auto  !important;;
+	
+}
+
+
+.highcharts-container svg.highcharts-root{
+		width:100%  !important;
+	height:auto  !important;
+}
+
+@media only screen and (max-width: 600px) {
+	
+	.msg-outer .col {
+    -ms-flex-preferred-size: unset !important;
+    flex-basis: unset !important;
+    -ms-flex-positive: unset !important;
+    flex-grow: unset !important;
+}
+
+.highcharts-container {
+	width:100% !important;
+	height:auto  !important;;
+	
+}
+
+
+.highcharts-container svg.highcharts-root{
+		width:100%  !important;
+	height:auto  !important;
+}
+	
+}
+
+
+.react-autosuggest__suggestion {
+    color: white !important;
+}
+
+
+.react-autosuggest__suggestion span{
+    color: white !important;
+}
+
+.react-autosuggest__suggestion {
+    color: white !important;
+}
+
+
+.react-autosuggest__suggestion span{
+    color: white !important;
+}

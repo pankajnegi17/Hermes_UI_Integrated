@@ -1,0 +1,26 @@
+{"recording_files":[
+    {
+      "id": "d01622f2-4d7d-40fa-8b6c-127d6aa06ecb",
+      "meeting_id": '/vMax/CpQNmlEgGvhgbK1A==',
+      recording_start: '2020-05-19T15:06:09Z',
+      recording_end: '2020-05-19T15:06:36Z',
+      file_type: 'M4A',
+      file_size: 148730,
+      play_url: 'https://us02web.zoom.us/rec/play/6ZQsceuq-Dk3HoCS5ASDAqAoW9TvKPis0yMZrvVcnU-zBiNRY1bzN7MVa-fDJAzzDmk6hr8WbjNXGPK-',
+      download_url: 'https://us02web.zoom.us/rec/webhook_download/6ZQsceuq-Dk3HoCS5ASDAqAoW9TvKPis0yMZrvVcnU-zBiNRY1bzN7MVa-fDJAzzDmk6hr8WbjNXGPK-/59Npa-HN8FR8aKmV0W7kYYwnBtS-S_DEu3b66W-btylfmpZzWzWPKIiX',
+      status: 'completed',
+      recording_type: 'audio_only'
+    },
+    {
+      id: 'fc2c4fed-fdd4-49ac-b0b7-373573e3b834',
+      meeting_id: '/vMax/CpQNmlEgGvhgbK1A==',
+      recording_start: '2020-05-19T15:06:09Z',
+      recording_end: '2020-05-19T15:06:36Z',
+      file_type: 'MP4',
+      file_size: 212281,
+      play_url: 'https://us02web.zoom.us/rec/play/68cvJO3--283TIDBtASDC6cqW469fKys0SYd__QOmUznW3MHOgGiMOMSZee2PCoPMUreCUVJMN213aoC',
+      download_url: 'https://us02web.zoom.us/rec/webhook_download/68cvJO3--283TIDBtASDC6cqW469fKys0SYd__QOmUznW3MHOgGiMOMSZee2PCoPMUreCUVJMN213aoC/59Npa-HN8FR8aKmV0W7kYYwnBtS-S_DEu3b66W-btylfmpZzWzWPKIiX',
+      status: 'completed',
+      recording_type: 'shared_screen_with_speaker_view'
+    }
+  ]}

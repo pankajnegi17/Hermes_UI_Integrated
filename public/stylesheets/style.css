@@ -1,0 +1,25 @@
+body {
+  padding-top: 5rem;
+}
+
+h2
+{
+  font-family: serif;
+  font-style: italic;
+  color: white;
+  text-align: center;
+  position: absolute;
+  top: 30%;
+  left: 50%;
+  transform: translateX(-50%) translateY(-50%);
+}
+ /* .zoom-body {
+  background-image: url(/zoom_chat_widget/static/media/chat_bg_bot.a7670892.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}  */
+
+
+#modalContainer #chatbot-modal .hyper-modal-wrapper .hyper-modal-content-wrapper{
+  background-image:  linear-gradient(to bottom right, #6a6f74, #0e121e); ;
+}

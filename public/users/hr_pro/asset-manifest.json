@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/users/hr_pro/static/css/main.6505d8af.chunk.css",
+    "main.js": "/users/hr_pro/static/js/main.dc657231.chunk.js",
+    "main.js.map": "/users/hr_pro/static/js/main.dc657231.chunk.js.map",
+    "runtime-main.js": "/users/hr_pro/static/js/runtime-main.c026a04b.js",
+    "runtime-main.js.map": "/users/hr_pro/static/js/runtime-main.c026a04b.js.map",
+    "static/css/2.b3fe0efa.chunk.css": "/users/hr_pro/static/css/2.b3fe0efa.chunk.css",
+    "static/js/2.4d10695e.chunk.js": "/users/hr_pro/static/js/2.4d10695e.chunk.js",
+    "static/js/2.4d10695e.chunk.js.map": "/users/hr_pro/static/js/2.4d10695e.chunk.js.map",
+    "index.html": "/users/hr_pro/index.html",
+    "precache-manifest.56d804fafc14378260db3300e235cab9.js": "/users/hr_pro/precache-manifest.56d804fafc14378260db3300e235cab9.js",
+    "service-worker.js": "/users/hr_pro/service-worker.js",
+    "static/css/2.b3fe0efa.chunk.css.map": "/users/hr_pro/static/css/2.b3fe0efa.chunk.css.map",
+    "static/css/main.6505d8af.chunk.css.map": "/users/hr_pro/static/css/main.6505d8af.chunk.css.map",
+    "static/js/2.4d10695e.chunk.js.LICENSE.txt": "/users/hr_pro/static/js/2.4d10695e.chunk.js.LICENSE.txt",
+    "static/media/Bot-Academy-logo-head-1920.png": "/users/hr_pro/static/media/Bot-Academy-logo-head-1920.50a63da2.png",
+    "static/media/material-icons.css": "/users/hr_pro/static/media/MaterialIcons-Regular.e79bfd88.eot",
+    "static/media/Slide10.JPG": "/users/hr_pro/static/media/Slide10.2d1ccda2.JPG",
+    "static/media/Slide7.JPG": "/users/hr_pro/static/media/Slide7.316d13df.JPG",
+    "static/media/Slide8.JPG": "/users/hr_pro/static/media/Slide8.d269a96e.JPG",
+    "static/media/Slide9.JPG": "/users/hr_pro/static/media/Slide9.92e10c74.JPG",
+    "static/media/bot_avatar.jpg": "/users/hr_pro/static/media/bot_avatar.50a63da2.jpg",
+    "static/media/chatbot.css": "/users/hr_pro/static/media/chat_bg_bot-dark.a7670892.jpg",
+    "static/media/david.jpg": "/users/hr_pro/static/media/david.f5bb198c.jpg",
+    "static/media/hermes.jpg": "/users/hr_pro/static/media/hermes.50a63da2.jpg",
+    "static/media/ivan.jpg": "/users/hr_pro/static/media/ivan.76ca7124.jpg",
+    "static/media/mark.jpg": "/users/hr_pro/static/media/mark.76ca7124.jpg",
+    "static/media/robin.jpg": "/users/hr_pro/static/media/robin.78cacd50.jpg",
+    "static/media/simon.jpg": "/users/hr_pro/static/media/simon.78cacd50.jpg",
+    "static/media/thomas.jpg": "/users/hr_pro/static/media/thomas.f5bb198c.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c026a04b.js",
+    "static/css/2.b3fe0efa.chunk.css",
+    "static/js/2.4d10695e.chunk.js",
+    "static/css/main.6505d8af.chunk.css",
+    "static/js/main.dc657231.chunk.js"
+  ]
+}
